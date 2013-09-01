@@ -1,1 +1,6 @@
 C:\Users\Public\Documents\Code\Cookies\Cookies\Cookies\bin\Debug\Cookies.exe.config
+C:\Users\Public\Documents\Code\Cookies\Cookies\Cookies\bin\Debug\Cookies.exe
+C:\Users\Public\Documents\Code\Cookies\Cookies\Cookies\bin\Debug\Cookies.pdb
+C:\Users\Public\Documents\Code\Cookies\Cookies\Cookies\obj\Debug\Cookies.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\Code\Cookies\Cookies\Cookies\obj\Debug\Cookies.exe
+C:\Users\Public\Documents\Code\Cookies\Cookies\Cookies\obj\Debug\Cookies.pdb
